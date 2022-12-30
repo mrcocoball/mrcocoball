@@ -19,19 +19,25 @@
 - Spring Data JPA
   - JPA와 Hibernate에 대한 기본 개념을 숙지하고 있으며 프로젝트 진행 시에 Spring Data JPA를 활용하였습니다.
 - Spring Security
-  - Spring Security의 처리 과정에 대한 기본 개념을 숙지하고 있으며 프로젝트 진행 시에 활용하였고, JWT 관련해서 추가 공부 중에 있습니다.
+  - 기본 개념을 숙지하고 있으며 프로젝트 진행 시에 활용하였고, JWT 관련해서 추가 공부 중에 있습니다.
 - Querydsl
   - 프로젝트 진행 시 통계 처리를 할 때 사용하였으며 동적 쿼리에 대해서 추가 공부 중에 있습니다.
 - MyBatis
-  - MyBatis / JSP를 통한 프로젝트 진행 경험은 없으나 관련 내용을 서적을 통해 공부하였고 실습을 진행하였습ㄴ디ㅏ.
+  - MyBatis / JSP를 통한 프로젝트 진행 경험은 없으나 관련 내용을 서적을 통해 공부하였고 실습을 진행하였습니다.
 
 ## View, Front-End
 - HTML / CSS
+  - 프로젝트 진행 시 BootStrap을 활용하였으나 기초적인 문법 / 지식이 부족하다고 판단하여 현재 공부 중입니다.
 - Thymeleaf
+  - SSR에 대한 개념과 Thymeleaf에 대한 기초적인 문법을 이해하고 있으며 프로젝트에 활용하였습니다. 추가 공부 중입니다.
 - JSP
+  - 프로젝트에 직접 활용하지는 않았으나 관련 내용을 서적을 통해 공부하였고 실습을 진행하였습니다.
 - jQuery
+  - 프로젝트 진행 시 chart.js, Ajax, Axios, jQuery와 함께 사용한 경험이 있습니다.
 - Ajax
+  - 프로젝트 진행 시 chart.js, Ajax, Axios, jQuery와 함께 사용한 경험이 있습니다.
 - Axios
+  - 프로젝트 진행 시 chart.js, Ajax, Axios, jQuery와 함께 사용한 경험이 있으며, Vue.js 공부 시 추가로 공부할 예정입니다.
 
 ## Interested in
 - Spring Batch
