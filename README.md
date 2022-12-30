@@ -97,17 +97,19 @@
 </details>
 
 ## Interested in
-- Spring Batch
-- Kotlin
-- Redis
-- MongoDB
-- Kafka
-- Docker
-- Kubernetes
-- Vue.js
-- node.js
-- NestJs
 - Linux
+- Language
+  - Kotlin
+- Back-End Framework
+  - Spring Batch
+  - node.js
+  - NestJS
+- NoSQL
+  - Redis, MongoDB
+- Front-End Framework / Library
+  - Vue.js, Ajax, Axios
+- MSA
+  - Docker / Kubernetes / Kafka
 
 ## Link
 - 블로그 : https://velog.io/@mrcocoball
