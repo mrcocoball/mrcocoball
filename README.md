@@ -7,6 +7,10 @@
 ## Skills
 ### Language
 <details>
+  <summary>상세 내용 보기</summary>
+  
+<br>  
+<details>
   <summary>Java</summary>
   
   - Java 기본 문법과 객체 지향 프로그래밍에 대한 개념을 숙지하고 있으며 현재 추가적인 스터디를 진행하고자 합니다.
@@ -26,8 +30,13 @@
   
   - 기초적인 문법을 숙지하고 있으며 DB 설계 밒 성능 향상과 관련된 문법 / 기법을 추가로 공부하고 있습니다.
 </details>
+</details>
 
 ### Back-End
+<details>
+  <summary>상세 내용 보기</summary>
+  
+<br>  
 <details>
   <summary>Spring Boot</summary>
   
@@ -58,8 +67,13 @@
   
   - MySQL을 사용하였으며 주로 Workbench를 활용하여 작업하였습니다. 다른 DB도 필요하다면 공부할 의향이 있습니다. 
 </details>
+</details>
 
 ### View, Front-End
+<details>
+  <summary>상세 내용 보기</summary>
+  
+<br>  
 <details>
   <summary>HTML / CSS</summary>
   
@@ -82,6 +96,7 @@
   - 프로젝트 진행 시 REST API를 활용한 화면 비동기 처리에 활용하였습니다.
   - Vue.js 공부 시 추가로 공부할 예정입니다.
 </details>
+</details>
 
 ### Tools / etc
 <details>
@@ -96,7 +111,7 @@
   - AWS EC2, RDS, S3를 통해 프로젝트를 배포하였습니다. 다만 기초적인 배포 수준이라 추가로 공부가 필요합니다.
 </details>
 
-## Interested in
+### Interested in
 - Linux
 - Language
   - Kotlin
