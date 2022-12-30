@@ -50,7 +50,7 @@
 <details>
   <summary>Spring Security</summary>
   
-  - 기본 개념을 숙지하고 있으며 프로젝트 진행 시에 활용하였고, JWT 관련해서 추가 공부 중에 있습니다.
+  기본 개념을 숙지하고 있으며 프로젝트 진행 시에 활용하였고, JWT 관련해서 추가 공부 중에 있습니다.
 </details>
 <details>
   <summary>Querydsl</summary>
@@ -110,7 +110,7 @@
 <details>
   <summary>AWS</summary>
   
-  - AWS EC2, RDS, S3를 통해 프로젝트를 배포하였습니다. 다만 기초적인 배포 수준이라 추가로 공부가 필요합니다.
+  AWS EC2, RDS, S3를 통해 프로젝트를 배포하였습니다. 다만 기초적인 배포 수준이라 추가로 공부가 필요합니다.
 </details>
 </details>
 
