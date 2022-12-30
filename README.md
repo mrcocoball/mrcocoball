@@ -37,12 +37,12 @@
 - JSP
   - 프로젝트에 직접 활용하지는 않았으나 관련 내용을 서적을 통해 공부하였고 실습을 진행하였습니다.
 - jQuery
-  - 프로젝트 진행 시 chart.js, Ajax, Axios, jQuery와 함께 사용한 경험이 있습니다.
+  - 프로젝트 진행 시 사용한 경험이 있습니다.
 - Ajax
-  - 프로젝트 진행 시 chart.js, Ajax, Axios, jQuery와 함께 사용한 경험이 있으며, REST API를 활용한 화면 비동기 처리에 활용하였습니다.
+  - 프로젝트 진행 시 REST API를 활용한 화면 비동기 처리에 활용하였습니다.
   - Vue.js 공부 시 추가로 공부할 예정입니다.
 - Axios
-  - 프로젝트 진행 시 chart.js, Ajax, Axios, jQuery와 함께 사용한 경험이 있으며, REST API를 활용한 화면 비동기 처리를 실습하였습니다.
+  - 프로젝트 진행 시 REST API를 활용한 화면 비동기 처리에 활용하였습니다.
   - Vue.js 공부 시 추가로 공부할 예정입니다.
 
 ### Tools / etc
