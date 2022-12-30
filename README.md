@@ -1,6 +1,6 @@
 <div align=center>
 
-# 세상에 필요한 가치를 만드는 개발자를 꿈꾸고 있습니다
+# 세상에 필요한 가치를 만드는 개발자를 꿈꾸고 있습니다 <br>
 ## Introduce
 안녕하세요! 마케터에서 개발자로 새로운 여정을 준비하고 있는 **황용석**이라고 합니다. <br>
 마케터로서 일을 시작했을 때 가슴에 새겼던 **세상에 필요한 가치를 만들고 좋은 영향력을 끼치고 싶다**는 목표와 초심을 잊지 않고 <br>
@@ -9,10 +9,10 @@
 ## Skills
 ### Language
 <details>
-  <summary>상세 내용 보기</summary>
+  <summary>상세 내용 보기</summary> <br>
   
 <details>
-  <summary><h3>Java</summary>
+  <summary>Java</summary>
   
   Java 기본 문법과 객체 지향 프로그래밍에 대한 개념을 숙지하고 있으며 현재 추가적인 스터디를 진행하고자 합니다.
 </details>
@@ -35,7 +35,7 @@
 
 ### Back-End
 <details>
-  <summary>상세 내용 보기</summary>
+  <summary>상세 내용 보기</summary> <br>
   
 <details>
   <summary>Spring Boot</summary>
@@ -71,7 +71,7 @@
 
 ### View, Front-End
 <details>
-  <summary>상세 내용 보기</summary>
+  <summary>상세 내용 보기</summary> <br>
   
 <details>
   <summary>HTML / CSS</summary>
@@ -99,6 +99,9 @@
 
 ### Tools / etc
 <details>
+  <summary>상세 내용 보기</summary> <br>
+  
+<details>
   <summary>Git / GitKraken</summary>
   
   GIT 툴인 GitKraken을 통해 Git을 관리하였으며 GitHub Flow 전략으로 프로젝트를 진행하였습니다. 
@@ -108,6 +111,7 @@
   <summary>AWS</summary>
   
   - AWS EC2, RDS, S3를 통해 프로젝트를 배포하였습니다. 다만 기초적인 배포 수준이라 추가로 공부가 필요합니다.
+</details>
 </details>
 
 ### Interested in
