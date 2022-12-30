@@ -11,7 +11,10 @@
 - JavaScript
   - 프로젝트 진행 시 chart.js, Ajax, Axios, jQuery와 함께 사용한 경험이 있으며 현재 기초 문법 공부 중에 있습니다.
 - Python
-  - 기초적인 문법을 숙지하고 있으며 라이브러리 / 프레임워크 사용 경험이 있습니다. (BS4, Selenium, Scrapy, PyMySql) 
+  - 기초적인 문법을 숙지하고 있으며 라이브러리 / 프레임워크 사용 경험이 있습니다. (BS4, Selenium, Scrapy, PyMySql)
+- SQL
+  - 기초적인 문법을 숙지하고 있으며 DB 설계 밒 성능 향상과 관련된 문법 / 기법을 추가로 공부하고 있습니다.
+  - MySQL을 사용하였으며 다른 DB도 필요하다면 공부할 의향이 있습니다. 
 
 ## Back-End
 - Spring Boot
@@ -51,6 +54,7 @@
 ## Interested in
 - Spring Batch
 - Redis
+- MongoDB
 - Kafka
 - Docker
 - Kubernetes
