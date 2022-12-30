@@ -28,18 +28,36 @@
 </details>
 
 ### Back-End
-- Spring Boot
+<details>
+  <summary>Spring Boot</summary>
+  
   - 기초적인 사용 방법을 숙지하고 있으며 1인 기획 / 제작 프로젝트를 2회 진행하였습니다.
-- Spring Data JPA
+</details>
+<details>
+  <summary>Spring Data JPA</summary>
+  
   - JPA와 Hibernate에 대한 기본 개념을 숙지하고 있으며 프로젝트 진행 시에 Spring Data JPA를 활용하였습니다.
-- Spring Security
+</details>
+<details>
+  <summary>Spring Security</summary>
+  
   - 기본 개념을 숙지하고 있으며 프로젝트 진행 시에 활용하였고, JWT 관련해서 추가 공부 중에 있습니다.
-- Querydsl
+</details>
+<details>
+  <summary>Querydsl</summary>
+  
   - 프로젝트 진행 시 통계 처리를 할 때 사용하였으며 동적 쿼리에 대해서 추가 공부 중에 있습니다.
-- MyBatis
+</details>
+<details>
+  <summary>MyBatis</summary>
+  
   - MyBatis / JSP를 통한 프로젝트 진행 경험은 없으나 관련 내용을 서적을 통해 공부하였고 실습을 진행하였습니다.
-- RDBMS
+</details>
+<details>
+  <summary>RDBMS</summary>
+  
   - MySQL을 사용하였으며 주로 Workbench를 활용하여 작업하였습니다. 다른 DB도 필요하다면 공부할 의향이 있습니다. 
+</details>
 
 ### View, Front-End
 - HTML / CSS
