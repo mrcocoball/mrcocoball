@@ -6,14 +6,26 @@
 
 ## Skills
 ### Language
-- Java
+<details>
+  <summary>Java</summary>
+  
   - Java 기본 문법과 객체 지향 프로그래밍에 대한 개념을 숙지하고 있으며 현재 추가적인 스터디를 진행하고자 합니다.
-- JavaScript
+</details>
+<details>
+  <summary>JavaScript</summary>
+  
   - 프로젝트 진행 시 chart.js, Ajax, Axios, jQuery와 함께 사용한 경험이 있으며 현재 기초 문법 공부 중에 있습니다.
-- Python
+</details>
+<details>
+  <summary>Python</summary>
+  
   - 기초적인 문법을 숙지하고 있으며 라이브러리 / 프레임워크 사용 경험이 있습니다. (BS4, Selenium, Scrapy, PyMySql)
-- SQL
+</details>
+<details>
+  <summary>SQL</summary>
+  
   - 기초적인 문법을 숙지하고 있으며 DB 설계 밒 성능 향상과 관련된 문법 / 기법을 추가로 공부하고 있습니다.
+</details>
 
 ### Back-End
 - Spring Boot
