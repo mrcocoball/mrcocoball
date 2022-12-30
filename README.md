@@ -39,6 +39,13 @@
 - Axios
   - 프로젝트 진행 시 chart.js, Ajax, Axios, jQuery와 함께 사용한 경험이 있으며, Vue.js 공부 시 추가로 공부할 예정입니다.
 
+## Tools / etc
+- Git / GitKraken
+  - GIT 툴인 GitKraken을 통해 Git을 관리하였으며 GitHub Flow 전략으로 프로젝트를 진행하였습니다. 
+  - 다만 CLI를 통해 Git을 관리한 적이 없어 공부가 필요합니다.
+- AWS
+  - AWS EC2, RDS, S3를 통해 프로젝트를 배포하였습니다. 다만 기초적인 배포 수준이라 추가로 공부가 필요합니다.
+
 ## Interested in
 - Spring Batch
 - Redis
