@@ -60,30 +60,45 @@
 </details>
 
 ### View, Front-End
-- HTML / CSS
+<details>
+  <summary>HTML / CSS</summary>
+  
   - 프로젝트 진행 시 Bootstrap을 활용하였으나 기초적인 문법 / 지식이 부족하다고 판단하여 현재 공부 중입니다.
-- Thymeleaf
+</details>
+<details>
+  <summary>Thymeleaf</summary>
+  
   - SSR에 대한 개념과 Thymeleaf에 대한 기초적인 문법을 이해하고 있으며 프로젝트에 활용하였습니다. 추가 공부 중입니다.
-- JSP
+</details>
+<details>  
+  <summary>JSP</summary>
+  
   - 프로젝트에 직접 활용하지는 않았으나 관련 내용을 서적을 통해 공부하였고 실습을 진행하였습니다.
-- jQuery
+</details>
+<details>  
+  <summary>jQuery / Ajax / Axios</summary>
+  
   - 프로젝트 진행 시 사용한 경험이 있습니다.
-- Ajax
   - 프로젝트 진행 시 REST API를 활용한 화면 비동기 처리에 활용하였습니다.
   - Vue.js 공부 시 추가로 공부할 예정입니다.
-- Axios
-  - 프로젝트 진행 시 REST API를 활용한 화면 비동기 처리에 활용하였습니다.
-  - Vue.js 공부 시 추가로 공부할 예정입니다.
+</details>
 
 ### Tools / etc
-- Git / GitKraken
+<details>
+  <summary>Git / GitKraken</summary>
+  
   - GIT 툴인 GitKraken을 통해 Git을 관리하였으며 GitHub Flow 전략으로 프로젝트를 진행하였습니다. 
   - 다만 CLI를 통해 Git을 관리한 적이 없어 공부가 필요합니다.
-- AWS
+</details>
+<details>
+  <summary>AWS</summary>
+  
   - AWS EC2, RDS, S3를 통해 프로젝트를 배포하였습니다. 다만 기초적인 배포 수준이라 추가로 공부가 필요합니다.
+</details>
 
 ### Interested in
 - Spring Batch
+- Kotlin
 - Redis
 - MongoDB
 - Kafka
@@ -92,6 +107,7 @@
 - Vue.js
 - node.js
 - NestJs
+- Linux
 
 ## Link
 - 블로그 : https://velog.io/@mrcocoball
