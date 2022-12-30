@@ -96,7 +96,7 @@
   - AWS EC2, RDS, S3를 통해 프로젝트를 배포하였습니다. 다만 기초적인 배포 수준이라 추가로 공부가 필요합니다.
 </details>
 
-### Interested in
+## Interested in
 - Spring Batch
 - Kotlin
 - Redis
