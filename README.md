@@ -124,4 +124,4 @@ Vue.js, Ajax, Axios
 Docker, Kubernetes, Kafka  
 
 ## Link
-- 블로그 : https://velog.io/@mrcocoball
+블로그 : https://velog.io/@mrcocoball
