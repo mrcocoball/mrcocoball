@@ -97,6 +97,17 @@
 </details>
 </details>
 
+### Infrastructure
+<details>
+  <summary>상세 내용 보기</summary> <br>
+  
+<details>
+  <summary>Docker</summary>
+  
+  웹 어플리케이션 및 DB를 컨테이너화하여 개발 환경 / 배포 환경을 분리하는데에 Docker를 사용하였습니다.
+</details>
+</details>  
+  
 ### Tools / etc
 <details>
   <summary>상세 내용 보기</summary> <br>
