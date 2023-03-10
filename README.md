@@ -138,6 +138,3 @@ Docker, Kubernetes, Kafka
 블로그 : https://velog.io/@mrcocoball
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=mrcocoball)](https://github.com/mrcocoball)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrcocoball)](https://github.com/mrcocoball/github-readme-stats)
-
