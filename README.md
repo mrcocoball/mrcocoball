@@ -138,4 +138,4 @@ Docker, Kubernetes, Kafka
 블로그 : https://velog.io/@mrcocoball
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=mrcocoball)](https://github.com/mrcocoball)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mrcocoball](https://solved.ac/mrcocoball)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mrcocoball)](https://solved.ac/mrcocoball)
