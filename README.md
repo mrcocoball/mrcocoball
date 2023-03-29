@@ -42,6 +42,7 @@
   
   기초적인 사용 방법을 숙지하고 있으며 1인 기획 / 제작 프로젝트를 2회 진행하였고 추가 진행 중에 있습니다.
   현재는 Spring Framework에서 사용된 디자인 패턴 (템플릿 메서드, 프록시 패턴 등)과 AOP에 대해 심화 학습 중에 있습니다.
+  추가로, 단일 모듈에서 멀티 모듈로 분리하여 개발하는 방법을 공부하고 있습니다.
 </details>
 <details>
   <summary>Spring Data JPA</summary>
@@ -51,7 +52,7 @@
 <details>
   <summary>Spring Security</summary>
   
-  기본 개념을 숙지하고 있으며 프로젝트 진행 시에 활용하였고, JWT 관련해서 추가 공부 중에 있습니다.
+  기본 개념을 숙지하고 있으며 쿠키/세션 인증 방식을 프로젝트 진행 시에 활용하였고, 현재는 JWT 방식을 도입한 프로젝트를 진행 중에 있습니다.
 </details>
 <details>
   <summary>Querydsl</summary>
