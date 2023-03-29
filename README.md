@@ -24,7 +24,7 @@
 <details>
   <summary>Python</summary>
   
-  기초적인 문법을 숙지하고 있으며 라이브러리 / 프레임워크 사용 경험이 있습니다. (BS4, Selenium, Scrapy, PyMySql)
+  기초적인 문법을 숙지하고 있으며 라이브러리 / 프레임워크 사용 경험이 있습니다. (Django Framework, BS4, Selenium, Scrapy, PyMySql )
 </details>
 <details>
   <summary>SQL</summary>
