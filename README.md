@@ -40,12 +40,13 @@
 <details>
   <summary>Spring Boot</summary>
   
-  기초적인 사용 방법을 숙지하고 있으며 1인 기획 / 제작 프로젝트를 2회 진행하였습니다.
+  기초적인 사용 방법을 숙지하고 있으며 1인 기획 / 제작 프로젝트를 2회 진행하였고 추가 진행 중에 있습니다.
+  현재는 Spring Framework에서 사용된 디자인 패턴 (템플릿 메서드, 프록시 패턴 등)과 AOP에 대해 심화 학습 중에 있습니다.
 </details>
 <details>
   <summary>Spring Data JPA</summary>
   
-  JPA와 Hibernate에 대한 기본 개념을 숙지하고 있으며 프로젝트 진행 시에 Spring Data JPA를 활용하였습니다.
+  JPA와 Hibernate에 대한 기본 개념을 숙지하고 있으며 프로젝트 진행 시 단순한 쿼리는 Spring Data JPA를 활용하고 있습니다.
 </details>
 <details>
   <summary>Spring Security</summary>
@@ -55,7 +56,7 @@
 <details>
   <summary>Querydsl</summary>
   
-  프로젝트 진행 시 통계 처리를 할 때 사용하였으며 동적 쿼리에 대해서 추가 공부 중에 있습니다.
+  프로젝트 진행 시 동적 검색 쿼리, 통계 처리, 화면 API용 쿼리 등의 복잡한 쿼리 구현에 사용하고 있으며 추가 공부 중에 있습니다.
 </details>
 <details>
   <summary>MyBatis</summary>
@@ -63,9 +64,14 @@
   MyBatis / JSP를 통한 프로젝트 진행 경험은 없으나 관련 내용을 서적을 통해 공부하였고 실습을 진행하였습니다.
 </details>
 <details>
+  <summary>Django Framework</summary>
+  
+  멀티캠퍼스 과정에서 Django Framework에 대한 내용을 학습하였으며 Django Framework, Django Allauth 등의 라이브러리로 프로젝트를 1회 진행하였습니다.
+</details>  
+<details>
   <summary>RDBMS</summary>
   
-  MySQL을 사용하였으며 주로 Workbench를 활용하여 작업하였습니다. 다른 DB도 필요하다면 공부할 의향이 있습니다. 
+  MySQL, MariaDB를 사용하였으며 주로 Workbench, HeidiSQL 활용하여 작업하였습니다. 다른 DB도 필요하다면 공부할 의향이 있습니다. 
 </details>
 </details>
 
@@ -93,7 +99,7 @@
   
   프로젝트 진행 시 사용한 경험이 있습니다.  
   프로젝트 진행 시 REST API를 활용한 화면 비동기 처리에 활용하였습니다.  
-  Vue.js 공부 시 추가로 공부할 예정입니다.
+  Svelte.js 공부 시 추가로 공부할 예정입니다.
 </details>
 </details>
 
@@ -104,7 +110,7 @@
 <details>
   <summary>Docker</summary>
   
-  웹 어플리케이션 및 DB를 컨테이너화하여 개발 환경 / 배포 환경을 분리하는데에 Docker를 사용하였습니다.
+  웹 어플리케이션 및 DB를 컨테이너화하여 개발 환경 / 운영 환경을 분리하고 웹 배포를 할 때 Docker를 사용하였습니다.
 </details>
 </details>  
   
@@ -128,10 +134,9 @@
 ### Interested in
 Linux  
 Kotlin  
-Spring Batch  
 node.js, NestJS  
 Redis, MongoDB  
-Vue.js, Ajax, Axios  
+Svelte.js, Ajax, Axios  
 Docker, Kubernetes, Kafka  
 
 ## Link
