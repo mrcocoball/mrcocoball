@@ -20,7 +20,7 @@
   - Spring Security
   - Django Framework
 - OS / Infrastructure
-  - Linux
+  - Ubuntu / CentOS
   - Docker
   - AWS EC2 / RDS
 
