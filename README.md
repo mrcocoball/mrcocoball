@@ -13,12 +13,14 @@
   - JavaScript
 - RDBMS
   - MySQL / MariaDB
-- Framework
+- Backend
   - Spring Boot
   - Spring Data JPA
   - QueryDSL
   - Spring Security
   - Django Framework
+- Frontend
+  - Svelte.js
 - OS / Infrastructure
   - Ubuntu / CentOS
   - Docker
@@ -29,7 +31,6 @@
 - Node.js, NestJS  
 - Redis, MongoDB  
 - Docker, Kubernetes, Kafka  
-- Svelte.js
 
 ## Link
 블로그 : https://velog.io/@mrcocoball
