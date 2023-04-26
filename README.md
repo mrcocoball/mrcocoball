@@ -21,7 +21,7 @@
   - Django Framework
 - Frontend
   - Svelte.js
-  - 
+  - HTML / CSS
 - OS / Infrastructure
   - Ubuntu / CentOS
   - Docker
