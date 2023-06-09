@@ -29,9 +29,6 @@
 - Kotlin  
 - Node.js, NestJS  
 - Redis, MongoDB  
-- Docker, Kubernetes, Kafka  
-
-## Link
-블로그 : https://velog.io/@mrcocoball
+- Docker, Kubernetes, Apache Kafka
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=mrcocoball)](https://github.com/mrcocoball)
