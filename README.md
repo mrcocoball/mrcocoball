@@ -17,6 +17,8 @@
 - OS / Infrastructure
   - Ubuntu / CentOS
   - Docker
+  - Kubernetes
+  - Jenkins
   - AWS
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=mrcocoball)](https://github.com/mrcocoball)
