@@ -3,11 +3,12 @@
   - Java
   - Python
   - JavaScript
-- RDBMS
+- Database
   - MySQL / MariaDB
+  - MongoDB
 - Backend
   - Spring Boot
-  - Spring Data JPA
+  - Spring Data JPA / MongoDB
   - QueryDSL
   - Spring Security
   - Django Framework
