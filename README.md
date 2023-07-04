@@ -3,7 +3,7 @@
   - Java
   - Python
   - JavaScript
-- Database
+- Database
   - MySQL / MariaDB
   - MongoDB
 - Backend
