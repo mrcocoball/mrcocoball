@@ -16,10 +16,17 @@
   - Svelte.js
   - HTML / CSS
 - OS / Infrastructure
-  - Ubuntu / CentOS
+  - Ubuntu / CentOS / Rocky
   - Docker
   - Kubernetes
   - Jenkins
-  - AWS
+  - ArgoCD
+  - AWS / NHN Cloud
+  - NKS
+  - Prometheus
+  - Grafana
+  - Jaeger
+  - Fluentbit & Fluentd
+  - Istio
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=mrcocoball)](https://github.com/mrcocoball)
