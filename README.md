@@ -14,6 +14,7 @@
   - QueryDSL
   - Spring Security
   - Django Framework
+  - Flask
 - Frontend
   - Svelte.js
   - HTML / CSS
