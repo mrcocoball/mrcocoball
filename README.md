@@ -20,6 +20,7 @@
   - HTML / CSS
 - OS / Infrastructure
   - Ubuntu / CentOS / Rocky
+  - Apache Kafka
   - Docker
   - Kubernetes
   - Jenkins
