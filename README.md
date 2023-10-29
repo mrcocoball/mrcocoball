@@ -9,6 +9,8 @@
 - Backend
   - Spring Boot
   - Spring Data JPA / MongoDB
+  - Spring Cloud Gateway
+  - Spring Cloud Kubernetes
   - QueryDSL
   - Spring Security
   - Django Framework
