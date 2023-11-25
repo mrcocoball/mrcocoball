@@ -11,6 +11,7 @@
   - Spring Data JPA / MongoDB
   - Spring Cloud Gateway
   - Spring Cloud Kubernetes
+  - Spring Batch
   - QueryDSL
   - Spring Security
   - Django Framework
