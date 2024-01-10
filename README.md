@@ -5,13 +5,16 @@
   - JavaScript
 - Database
   - MySQL / MariaDB
+  - PostgreSQL
   - MongoDB
 - Backend
   - Spring Boot
   - Spring Data JPA / MongoDB
   - Spring Cloud Gateway
+  - Spring Cloud OpenFeign
   - Spring Cloud Kubernetes
   - Spring Batch
+  - Spring Kafka
   - QueryDSL
   - Spring Security
   - Django Framework
@@ -26,6 +29,7 @@
   - Kubernetes
   - Jenkins
   - ArgoCD
+  - Helm
   - AWS / NHN Cloud
   - NKS
   - Prometheus
