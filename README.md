@@ -36,6 +36,5 @@
   - Grafana
   - Jaeger
   - Fluentbit & Fluentd
-  - Istio
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=mrcocoball)](https://github.com/mrcocoball)
