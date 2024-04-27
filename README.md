@@ -9,19 +9,14 @@
   - MongoDB
 - Backend
   - Spring Boot
-  - Spring Data JPA / MongoDB
-  - Spring Cloud Gateway
-  - Spring Cloud OpenFeign
-  - Spring Cloud Kubernetes
+  - Spring Data (JPA / MongoDB)
+  - Spring Security
+  - Spring Cloud (Gateway, OpenFeign, Kubernetes)
   - Spring Batch
   - Spring Kafka
   - QueryDSL
-  - Spring Security
   - Django Framework
   - Flask
-- Frontend
-  - Svelte.js
-  - HTML / CSS
 - OS / Infrastructure
   - Ubuntu / CentOS / Rocky
   - Apache Kafka
@@ -36,5 +31,3 @@
   - Grafana
   - Jaeger
   - Fluentbit & Fluentd
-
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=mrcocoball)](https://github.com/mrcocoball)
