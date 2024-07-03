@@ -17,6 +17,7 @@
   - QueryDSL
   - Django Framework
   - Flask
+  - MongoEngine
 - OS / Infrastructure
   - Ubuntu / CentOS / Rocky
   - Apache Kafka
