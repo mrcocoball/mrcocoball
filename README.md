@@ -15,8 +15,10 @@
   - Spring Batch
   - Spring Kafka
   - QueryDSL
+  - FastAPI
   - Django Framework
   - Flask
+  - SQLAlchemy
   - MongoEngine
 - OS / Infrastructure
   - Ubuntu / CentOS / Rocky
