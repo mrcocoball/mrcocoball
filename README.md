@@ -16,8 +16,8 @@
   - Spring Kafka
   - QueryDSL
   - FastAPI
-  - Django Framework
   - Flask
+  - Django Framework
   - SQLAlchemy
   - MongoEngine
 - OS / Infrastructure
@@ -28,9 +28,10 @@
   - Jenkins
   - ArgoCD
   - Helm
-  - AWS / NHN Cloud
-  - NKS
   - Prometheus
   - Grafana
   - Jaeger
   - Fluentbit & Fluentd
+- Cloud
+  - AWS
+  - NHN Cloud, NKS
