@@ -7,6 +7,7 @@
   - MySQL / MariaDB
   - PostgreSQL
   - MongoDB
+  - Redis
 - Backend
   - Spring Boot
   - Spring Data (JPA / MongoDB)
