@@ -2,7 +2,6 @@
 - Language
   - Java
   - Python
-  - JavaScript
 - Database
   - MySQL / MariaDB
   - PostgreSQL
