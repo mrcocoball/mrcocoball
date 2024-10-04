@@ -18,7 +18,6 @@
   - QueryDSL
   - FastAPI
   - Flask
-  - Django Framework
   - SQLAlchemy
   - MongoEngine
 - OS / Infrastructure
