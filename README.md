@@ -19,18 +19,23 @@
   - Flask
   - SQLAlchemy
   - MongoEngine
-- OS / Infrastructure
-  - Ubuntu / CentOS / Rocky
-  - Apache Kafka
+- OS
+  - Ubuntu
+  - CentOS
+  - Rocky
+- Infrastructure
   - Docker
   - Kubernetes
-  - Jenkins
-  - ArgoCD
-  - Helm
+  - Apache Kafka
   - Prometheus
   - Grafana
   - Jaeger
   - Fluentbit & Fluentd
+- CI / CD
+  - Jenkins
+  - ArgoCD
+  - Helm
+  - GitHub Actions
 - Cloud
   - AWS
   - NHN Cloud, NKS
