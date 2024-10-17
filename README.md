@@ -38,4 +38,4 @@
   - GitHub Actions
 - Cloud
   - AWS
-  - NHN Cloud, NKS
+  - NHN Cloud
