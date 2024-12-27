@@ -9,12 +9,13 @@
   - Redis
 - Backend
   - Spring Boot
-  - Spring Data (JPA / MongoDB)
+  - Spring Data (JPA / Redis / MongoDB)
   - Spring Security
-  - Spring Cloud (Gateway, OpenFeign, Kubernetes)
+  - Spring Cloud (Gateway, OpenFeign, Kubernetes, AWS)
   - Spring Batch
   - Spring Kafka
   - QueryDSL
+  - MyBatis
   - FastAPI
   - Flask
   - SQLAlchemy
