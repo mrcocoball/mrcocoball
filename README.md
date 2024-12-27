@@ -18,6 +18,7 @@
   - MyBatis
   - FastAPI
   - Flask
+  - Celery
   - SQLAlchemy
   - MongoEngine
 - OS
