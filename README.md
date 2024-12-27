@@ -18,9 +18,9 @@
   - MyBatis
   - FastAPI
   - Flask
-  - Celery
   - SQLAlchemy
   - MongoEngine
+  - Celery
 - OS
   - Ubuntu
   - CentOS
