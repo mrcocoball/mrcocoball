@@ -9,13 +9,14 @@
   - Redis
 - Backend
   - Spring Boot
-  - Spring Data (JPA / Redis / MongoDB)
+  - Spring Data (JPA / JDBC / MongoDB)
   - Spring Security
   - Spring Cloud (Gateway, OpenFeign, Kubernetes, AWS)
   - Spring Batch
   - Spring Kafka
   - QueryDSL
   - MyBatis
+  - Quartz Scheduler
   - FastAPI
   - Flask
   - SQLAlchemy
@@ -39,5 +40,5 @@
   - Helm
   - GitHub Actions
 - Cloud
-  - AWS (ECS, ECR, RDS, S3, SecretManager, SES, Lambda)
+  - AWS (ECS, ECR, RDS, Route 53, S3, SecretManager, SES, Lambda)
   - NHN Cloud (NCR, NKS)
