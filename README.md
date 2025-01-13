@@ -40,5 +40,5 @@
   - Helm
   - GitHub Actions
 - Cloud
-  - AWS (ECS, ECR, RDS, Route 53, S3, SecretManager, SES, Lambda)
+  - AWS (ECS, ECR, RDS, Route 53, S3, Secrets Manager, SES, Lambda)
   - NHN Cloud (NCR, NKS)
