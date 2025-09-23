@@ -14,6 +14,7 @@
   - Spring Cloud (Gateway, OpenFeign, Kubernetes, AWS)
   - Spring Batch
   - Spring Kafka
+  - jOOQ
   - QueryDSL
   - MyBatis
   - Quartz Scheduler
