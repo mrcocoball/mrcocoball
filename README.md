@@ -40,6 +40,20 @@
   - ArgoCD
   - Helm
   - GitHub Actions
+- AWS
+  - EC2
+  - ECS(EC2)
+  - ECR
+  - RDS
+  - Route 53
+  - S3
+  - Secrets Manager
+  - SES
+  - SQS
+  - Lambda
+  - EventBridge
+  - API Gateway
+  - MediaConvert
+  - CloudFront
 - Cloud
-  - AWS (EC2, ECS, ECR, RDS, Route 53, S3, Secrets Manager, SES, Lambda, API Gateway, MediaConvert, CloudFront)
   - NHN Cloud (Compute, NKS, NCR, DNS, Object Storage)
