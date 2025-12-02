@@ -35,6 +35,7 @@
   - Grafana
   - Jaeger
   - Fluentbit & Fluentd
+  - Terraform
 - CI / CD
   - Jenkins
   - ArgoCD
