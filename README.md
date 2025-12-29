@@ -1,6 +1,7 @@
 ## Skill
 - Language
   - Java
+  - Kotlin
   - Python
 - Database
   - MySQL / MariaDB
